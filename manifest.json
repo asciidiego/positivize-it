@@ -1,6 +1,6 @@
 {
   "name": "Positivize.it",
-  "description": "Build an Extension!",
+  "description": "Based on the following tweet https://twitter.com/thepericulum/status/1482628206251364352",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
